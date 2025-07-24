@@ -32,7 +32,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/the-social-hub.git
+git clone https://github.com/AkashKT10172/the-social-hub.git
 cd the-social-hub
 ```
 
